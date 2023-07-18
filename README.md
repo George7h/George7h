@@ -4,6 +4,6 @@
 
 **About me**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Georgeh7&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=George7h&theme=radical)
 #### My Top Repositories
 
