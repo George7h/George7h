@@ -1,7 +1,8 @@
 <p align = "center"><img src="./assets/Banner2.svg"></p>
 <br>
 <hr>
-<p align = "center">Visitor Count<img src="https://profile-counter.glitch.me/George7h/count.svg" /></p>
+<p align = "center">Visitor Count</p>
+<p align = "center"><img src="https://profile-counter.glitch.me/George7h/count.svg" /></p>
 
 **About me**
 
