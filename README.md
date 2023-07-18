@@ -1,4 +1,4 @@
-<p align="center"><a href="#">Hi I'm George</p>
+<p align="center"><img src="./assets/Banner.svg"></p>
 <br>
 <hr>
 
