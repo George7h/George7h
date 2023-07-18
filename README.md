@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/Banner.svg"></p>
+<p align = "center"><img src="./assets/Banner2.svg"></p>
 <br>
 <hr>
 
