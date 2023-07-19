@@ -14,7 +14,7 @@
 
 **Contact me**
 
-<a href="#">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://linkedin.com/in/george-hamman-95b98224b">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="#">![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)</a>
 <a href="#">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
 
@@ -34,9 +34,9 @@
 
 🤓 Interested:<br>
 
-Writing AI models
-Python
-C++
+Writing AI models<br>
+Python<br>
+C++<br>
 
 📚 Working on:
 
@@ -44,5 +44,4 @@ C++
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=George7h&theme=radical)
-#### My Top Repositories
 
