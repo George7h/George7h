@@ -11,9 +11,9 @@
 
 **About me**
 
- - I am in intensive training to cultivate my skills as a full-stack developer.
- - Ask me about Frontend Webdevelopment
- - I'm an occasional scuba diver. When I need to break away from this world. I go to an Alien like environment to explore.
+ - 🧑‍🎓I am in intensive training to cultivate my skills as a full-stack developer.
+ - 🎨Ask me about Frontend Web development 
+ - 🌊I'm an occasional scuba diver. When I need to break away from this world. I go to an Alien-like environment👽🐙 to explore.
 
 **Contact me**
 
