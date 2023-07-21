@@ -11,6 +11,9 @@
 
 **About me**
 
+ - I am in intensive training to cultivate my skills as a full-stack developer.
+ - Ask me about Frontend Webdevelopment
+ - I'm an occasional scuba diver. When I need to break away from this world. I go to an Alien like environment to explore.
 
 **Contact me**
 
@@ -43,5 +46,8 @@ C++<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=George7h&theme=radical)
 
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=George7h&show_icons=true&locale=en&layout=compact)
