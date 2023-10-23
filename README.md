@@ -1,8 +1,3 @@
-
-<h1 align = "center"> Hi there 👋, I am George </h1>
-<br>
-<hr>
-
 <p align = "center"><img src="./assets/github-header-image.png"></p>
 <br>
 <hr>
