@@ -3,7 +3,7 @@
 <br>
 <hr>
 
-<p align = "center"><img src="./assets/Banner2.svg"></p>
+<p align = "center"><img src="./assets/github-header-image.png"></p>
 <br>
 <hr>
 <p align = "center">Visitor Count</p>
